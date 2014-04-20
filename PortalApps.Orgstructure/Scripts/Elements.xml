@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.min.js" Url="Scripts/jquery-1.8.2.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.js" Url="Scripts/jquery-1.8.2.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.intellisense.js" Url="Scripts/jquery-1.8.2.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Helper.js" Url="Scripts/Helper.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Orgstructure.js" Url="Scripts/Orgstructure.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\handlebars-v1.3.0.js" Url="Scripts/handlebars-v1.3.0.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Messages.js" Url="Scripts/Messages.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-ui-1.10.3.custom.min.js" Url="Scripts/jquery-ui-1.10.3.custom.min.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

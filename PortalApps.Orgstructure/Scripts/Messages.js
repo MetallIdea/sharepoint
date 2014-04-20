@@ -1,0 +1,1 @@
+﻿var REMOVE_DEPARTMENT_QUESTION = "Вы уверены, что хотите удалить подразделение?";

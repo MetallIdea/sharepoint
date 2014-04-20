@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2a370607-66df-47a8-8dda-1b9b6671a5bd" 
+        solutionId="2a370607-66df-47a8-8dda-1b9b6671a5bd" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PortalApps.Orgstructure"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="bc4bc810-3bd6-4dcf-be1b-ce2c89670a23" />
+  </features>
+</package>

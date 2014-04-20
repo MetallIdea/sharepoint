@@ -1,0 +1,11 @@
+﻿/* Place custom styles below */
+.addDepartment,
+.addDepartment a,
+.addDepartment a:link,
+.addDepartment a:visited{
+    color: #aaa;
+}
+.addDepartment:hover,
+.addDepartment a:hover {
+    color: #000;
+}
